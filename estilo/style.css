@@ -49,8 +49,7 @@ header{
     padding top: 40px;
     background-image: linear-gradient(to bottom, #2fa866, #1a5c37);
 }
-video{
-    max-width: 350px;
+inframe{
     width: 560px;
     height: 315;
 
