@@ -54,6 +54,7 @@ header > h1{
     font-family: var(--fonte-destaque);
     font-size: 3em;
     text-shadow: 2px 2px 0px black;
+    text-align: center;
     
 }
 header > p{
@@ -66,6 +67,7 @@ header > p{
     padding-left: 10px;
     padding-right: 10px;
     text-shadow: 2px 2px 0px black;
+    text-align: center;
     
 }
 nav{
