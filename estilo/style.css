@@ -72,6 +72,11 @@ header > p{
 }
 nav{
     background-color: var(--cor5);
+    font-size: 20px;
+}
+nav > a{
+    color: rgb(153, 240, 167);
+    text-decoration: none;
 }
 main{
     background-color: white;
