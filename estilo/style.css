@@ -50,9 +50,7 @@ header{
     background-image: linear-gradient(to bottom, #2fa866, #1a5c37);
 }
 inframe{
-    width: 560px;
-    height: 315px;
-
+   max-width: 350px;
 }
 header > h1{
     color: white;
