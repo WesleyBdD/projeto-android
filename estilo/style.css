@@ -51,6 +51,9 @@ header{
 }
 video{
     max-width: 350px;
+    width: 560px;
+    height: 315;
+
 }
 header > h1{
     color: white;
